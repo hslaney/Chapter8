@@ -14,7 +14,7 @@ public class exercise {
 
     public int howManyYears( double startpop, double endpop){
         int year=0;
-        while (startpop<=endpop){
+        while (startpop<endpop){
             startpop*=1.13;
             year++;
         }
