@@ -30,3 +30,24 @@ public class Main {
 
     }
 }
+
+/*
+sum of odds to 5 is 9
+sum of odds to 6 is 9
+sum of odds to 9 is 25
+sum of odds to 1 is 1
+1 year to reach 120 million
+3 years to reach 150 million
+4 years to reach 170 million
+21
+36
+1
+25 perfect square: true
+49 perfect square: true
+50 perfect square: false
+60 perfect square: false
+digits of 57634 add to 25
+digits of 6 add to 6
+digits of 283455332 add to 35
+
+ */
